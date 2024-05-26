@@ -1,0 +1,16 @@
+body{
+    background: rgb(142,45,232,0.1);
+background: linear-gradient(75deg, rgba(142,45,232, 0.4) 5%, rgba(74,0,224,0.4) 80%);
+}
+
+
+.cuadroBordeado{
+    height: 78px;
+    width: 100%;
+}
+
+
+.partidos{
+    scroll-behavior: auto;
+    width: 100%;
+}
